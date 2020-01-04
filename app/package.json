@@ -1,0 +1,13 @@
+{
+  "name": "docker_transport_optimizer",
+  "version": "0.1.1",
+  "description": "Webapp for the TpF Transport Optimizer",
+  "author": "Mikko Eberhardt <mikko.eberhardt@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
